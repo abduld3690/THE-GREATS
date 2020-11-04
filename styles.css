@@ -1,0 +1,27 @@
+p{color:yellow;}
+.green{color:coral;}
+h1{color:lime;}
+h2{color:coral;}
+p{text-align: left;}
+h3{font-size:160%;}
+img{height:225px;
+margin: 1px auto;
+display: block;}
+img{width:285px;}
+body {
+  background: #000000 url("img_tree.gif") no-repeat fixed center;
+}
+h2{text-align: center;}
+img{vertical-align:center;}
+h3{color:aqua;}
+h4{color:fuchsia;}
+h4{font-family: cursive;}
+h4{text-align: center;}
+body
+{background-image: url("https://i.stack.imgur.com/NEuip.jpg");}
+h5{color:dodgerblue;}
+h5{font-size:30px;}
+h6{color:#FFD700;}
+h6{font-size:30px;}
+.green{
+    text-decoration:underline;}
